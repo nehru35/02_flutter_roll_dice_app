@@ -1,16 +1,1 @@
-# basics
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is part of an online course I'm taking to learn Flutter, where the focus is on understanding concepts like **widgets**, `StatefulWidget`, and `StatelessWidget` classes. We created a digital dice rolling simulation as part of the course curriculum, providing a practical opportunity to explore these concepts interactively. Through this project, I aim to gain a deeper understanding of managing widget states and creating dynamic user interfaces in Flutter.
